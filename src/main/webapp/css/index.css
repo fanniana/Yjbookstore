@@ -1,0 +1,213 @@
+a{
+    text-decoration: none;
+    color: #4c4c4c;
+}
+
+table td{
+	vertical-align: middle !important;
+}
+
+.padding-top{
+    padding-top: 20px;
+}
+
+
+.size1{
+    width: 114px;
+    height: 114px;
+    margin-left: 40px;
+    vertical-align: middle;
+}
+
+.zi1{
+    font-size: 50px;
+    vertical-align: middle;
+}
+
+.search-input{
+    float: left;
+    border: 2px solid #229e4f;
+    width: 400px;
+    height: 46px;
+    padding-left: 5px;
+    margin-top: 34px;
+    vertical-align: middle;
+}
+
+.search-btn{
+    float: left;
+    float: left;
+    border: 2px solid #229e4f;
+    width: 90px;
+    height: 46px;
+    background-color: #229e4f;
+    text-align: center;
+    line-height: 46px;
+    margin-top: 34px;
+    vertical-align: middle;
+    color: white;
+}
+
+.size2{
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+.size3{
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+.zi2{
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.weizhi1{
+    display: inline-block;
+    margin: 42px 70px;
+}
+
+.weizhi2{
+    display: inline-block;
+    margin: 42px 50px;
+}
+
+.abc{
+    width: 60%;
+    height: 300px;
+    margin: auto;
+}
+
+#carousel-example-generic img{
+    width: 100%;
+}
+
+.jx img{
+    width: 30px;
+    height: 30px;
+}
+
+.jx{
+    border-bottom: 2px solid #229e4f;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.jx span{
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+/* 调整图片间距 */
+
+
+.shu{
+    line-height: 10px;
+}
+
+.line1s{
+    margin-top: 10px;
+}
+
+.dibu{
+    height: 200px;
+    background-color: black;
+}
+
+.dibu2{
+    margin-top: 90px;
+    text-align: center;
+    color :white ;
+    font-size: 15px;
+    font-weight: 2px;
+}
+
+.footerposition{
+	height:100px;
+    line-height:100px;
+    margin-top:-100px;
+}
+
+#mask{
+	position:fixed;
+	display:none;
+	background:rgba(0,0,0,0.8);
+}
+
+#popup{
+	width:628px;
+	height:348px;
+	margin:auto;
+	background:white;
+}
+
+.tanchuang1{
+	width:628px;
+	height:22px;
+	margin:auto;
+	background:white;
+}
+
+.tanchuang1 .closebutton1{
+	width:22px;
+	height:22px;
+	background:black;
+	display:inline-block;
+	float:right;
+}
+
+.tanchuang2 form table input[name='tel1']{
+    background: url(../image/phone.png) 15px 15px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+
+}
+
+.tanchuang2 form table input[name='address1']{
+    background: url(../image/adress.png) 15px 15px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+
+}
+
+.tanchuang2 form table input[type='submit']{
+    margin-top: 30px;
+    background-color: #e64346;
+    color: #fff;
+    font-size: 20px;
+    text-indent: 0px;
+}
+
+.tanchuang2 form table input[name='username1']{
+    background: url(../image/user.png) 15px 15px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+
+}
+
+.tanchuang2 form{
+    height: 545px;
+    width: 819px;
+    margin-left: 123px;
+}
+
+.tanchuang2 form table input{
+    width: 381px;
+    height: 50px;
+    font-size: 16px;
+    color: #999;
+    text-indent: 45px;
+    border: 1px solid #d0d0d0;
+}
+
+.tanchuang3{
+	width:628px;
+	height:70px
+	margin:0 auto;
+	text-align:center;
+	line-height:70px;
+	font-size:16px;
+}

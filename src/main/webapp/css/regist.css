@@ -1,0 +1,132 @@
+#header{
+    width:1200px;
+    height: 114px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 41px ;
+}
+
+#line1{
+    height: 72px;
+
+}
+
+#line1 img{
+    width: 114px;
+    height: 114px;
+    margin-left: 50px;
+    margin-right: 33px;
+    vertical-align: middle;
+}
+
+#line1 .line2{
+    border: 2px solid #676767;
+    height: 68px;
+    display: inline-block;
+    margin-right: 15px;
+    background-color: #676767;
+    vertical-align: middle;
+
+}
+
+#line1 .welcome{
+    font-size: 42px;
+    color: #676767;
+    vertical-align: middle;
+}
+
+#line2{
+    height: 42px;
+    text-align: right;
+}
+
+#line2 span{
+    font-size: 24px;
+    color: #999;
+}
+
+#line2 a{
+    font-size: 24px;
+    color: #333;
+    text-decoration: none;
+}
+
+#middle{
+    width: 1200px;
+    height: 545px;
+    margin: 0 auto;
+    padding-top: 75px;
+    border: 7px solid #d0d0d0;
+    border-top-width: 9px ;
+    border-bottom-width: 9px;
+}
+
+#middle form{
+    height: 545px;
+    width: 819px;
+    margin-left: 109px;
+}
+
+#middle form table input{
+    width: 381px;
+    height: 50px;
+    font-size: 16px;
+    color: #999;
+    text-indent: 45px;
+    border: 1px solid #d0d0d0;
+}
+
+#middle form table input[name='username']{
+    background: url(../image/user.png) 15px 15px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+
+}
+
+#middle form table .msg{
+    height: 32px;
+    font-size: 12px;
+    text-indent: 45px;
+    color: #c3c3c3;
+    background:url(../image/tanhao.png) 22px 11px;
+    background-size: 12px 12px;
+    background-repeat: no-repeat;
+}
+
+#middle form table input[type='password']{
+    background: url(../image/mimasuo.png) 15px 15px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+}
+
+#middle form table .msg{
+    height: 32px;
+    font-size: 12px;
+    text-indent: 45px;
+    color: #c3c3c3;
+    background:url(../image/tanhao.png) 22px 11px;
+    background-size: 12px 12px;
+    background-repeat: no-repeat;
+}
+
+#middle form table input[name='tel']{
+    background: url(../image/phone.png) 15px 15px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+
+}
+
+#middle form table input[name='adress']{
+    background: url(../image/adress.png) 15px 15px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+
+}
+
+#middle form table input[type='submit']{
+    margin-top: 30px;
+    background-color: #e64346;
+    color: #fff;
+    font-size: 20px;
+    text-indent: 0px;
+}
